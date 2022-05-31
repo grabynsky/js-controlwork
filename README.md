@@ -1,2 +1,5 @@
 # js-controlwork
-Contol work LOGOS
+##Contol work LOGOS
+
+- user admin
+- password admin
